@@ -124,5 +124,26 @@
 		"nombre": "Plátano macho",
 		"importe": 330,
 		"stock": 80
+	},
+	{
+		"id": 23,
+		"imagen": "🥑",
+		"nombre": "Palta",
+		"importe": 450,
+		"stock": 35
+	},
+	{
+		"id": 24,
+		"imagen": "🍏",
+		"nombre": "Manzana Verde",
+		"importe": 150,
+		"stock": 70
+	},
+	{
+		"id": 25,
+		"imagen": "🍊",
+		"nombre": "Mandarina",
+		"importe": 50,
+		"stock": 170
 	}
 ]
